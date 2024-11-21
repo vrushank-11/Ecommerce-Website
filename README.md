@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/vrushank-11/ecommerce/blob/master/screenshots/admindashboard.png?raw=true)
+![Admin Dashboard](screenshots/dashboard.png)
 ### Customer Homepage
 ![homepage snap](https://github.com/vrushank-11/ecommerce/blob/master/screenshots/homepage.png?raw=true)
 ### Cart
